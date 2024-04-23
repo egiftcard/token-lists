@@ -1,9 +1,9 @@
 {
-  "name": "@uniswap/token-lists",
+  "name": "@egiftcard/token-lists",
   "author": {
-    "name": "Uniswap Labs",
-    "email": "contact@uniswap.org",
-    "url": "https://uniswap.org"
+    "name": "Egiftcard Labs",
+    "email": "contact@egiftcard.cc",
+    "url": "https://egiftcard.cc"
   },
   "description": "📚 The Token Lists specification",
   "version": "1.0.0-beta.34",
@@ -18,7 +18,7 @@
     "node": ">=10"
   },
   "repository": {
-    "url": "https://github.com/Uniswap/token-lists",
+    "url": "https://github.com/Egiftcard/token-lists",
     "type": "git"
   },
   "scripts": {
